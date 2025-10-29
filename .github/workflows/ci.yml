@@ -41,3 +41,4 @@ jobs:
           context: .
           file: ./Dockerfile
           push: false
+          tags: ola-devops:latest
