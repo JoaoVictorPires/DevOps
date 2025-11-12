@@ -131,3 +131,5 @@ dist
 
 # Sentry Config File
 .sentryclirc
+
+/actions-runner
